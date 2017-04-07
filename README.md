@@ -1,1 +1,1 @@
-# algorithmic-piano-album
+# algorithmic piano album
